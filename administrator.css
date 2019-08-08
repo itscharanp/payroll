@@ -1,0 +1,57 @@
+#overlayform {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 1031;
+    cursor: pointer;
+    overflow: auto;
+}
+#overlayiform {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 1031;
+    cursor: pointer;
+    overflow: auto;
+}
+#overlayuform {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    z-index: 1031;
+    cursor: pointer;
+    overflow: auto;
+}
+#form{
+  margin: auto;
+  width:30%;
+  border:1px solid #ddd;
+  background-color:white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  overflow: auto;
+}
+.select{
+  display: none;
+}
